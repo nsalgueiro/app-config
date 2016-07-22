@@ -8,7 +8,6 @@ logging: # <----New sections below
     level:     
         io:
             pivotal: DEBUG 
-			
 greeting:   
     displayFortune: false 
 
